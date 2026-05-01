@@ -1,1 +1,2 @@
 Burada yazılan kodlar 1.sınıf 2.dönem Algoritma ve Programlama dersi kapsamında yazılmıştır.
+Metotları anlamak için toplama, ortalama bulma, dizi toplama, random sayılardan oluşturulmuş olan bir dizinin elemanlarını toplama, random sayılardan oluşturulmuş olan bir dizinin elemanlarının ortalamsını bulma, dizi içerisinde ki en büyük ve en küçük elemanı bulma, matris sistemlerde satır ve sütunların en büyük ve en küçük elemanlarını bulma metotları yazılmıştır.
